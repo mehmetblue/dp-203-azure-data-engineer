@@ -1,3 +1,14 @@
+# Microsoft Azure Data Engineering (DP-203) Course Labs
+
+This repository is a fork from the official Microsoft Azure Data Engineering (DP-203) course lab repository. It contains all the files under the `Allfiles/labs` folder related to the lab exercises I have completed. Additionally, I have included notes, screenshots from my lab exercises, and links to LinkedIn posts related to each lab folder.
+
+I hope this repository will be helpful to those just starting out. If you have any questions or encounter any issues, please feel free to reach out to me on LinkedIn : www.linkedin.com/in/mehmet-koc-b85789294
+
+Good luck on your learning journey!
+
+----------------------------------
+
+
 # DP-203: Azure Data Engineer
 
 This repository contains instructions and assets for hands-on exercises in the Microsoft Official Courseware to support the [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/certifications/azure-data-engineer/) certification. The exercises are designed to complement the associated training modules on [Microsoft Learn](https://learn.microsoft.com/training), and a <u>subset</u> of these exercises comprises the hands-on labs in the official [DP-203T00: Data Engineering on Microsoft Azure](https://learn.microsoft.com/training/courses/dp-203t00) instructor-led training course.
