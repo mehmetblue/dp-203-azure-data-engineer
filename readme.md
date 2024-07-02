@@ -2,7 +2,7 @@
 
 This repository is a fork from the official Microsoft Azure Data Engineering (DP-203) course lab repository. It contains all the files under the `Allfiles/labs` folder related to the lab exercises I have completed. Additionally, I have included notes, screenshots from my lab exercises, and links to LinkedIn posts related to each lab folder.
 
-I hope this repository will be helpful to those just starting out. If you have any questions or encounter any issues, please feel free to reach out to me on LinkedIn : www.linkedin.com/in/mehmet-koc-b85789294
+I hope this repository will be helpful to those just starting out. If you have any questions or encounter any issues, please feel free to reach out to me on LinkedIn : https://www.linkedin.com/posts/activity-7166703274954330112-5F4S?utm_source=share&utm_medium=member_desktop
 
 Good luck on your learning journey!
 
